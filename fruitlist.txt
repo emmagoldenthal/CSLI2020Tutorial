@@ -1,6 +1,5 @@
 satsuma
 salmon berry
-olive
 peach
 pear
 marion berry
@@ -9,24 +8,20 @@ rambutan
 strawberry
 cucumber
 apple
-damson
 gooseberry
 nectarine
 dragonfruit
 plum/prune
-cloudberry
 goji berry
-western raspberry
+raspberry
 grapefruit
 miracle fruit
 pepper
 clementine
 melon
-ugli fruit
 quince
 elderberry
 blackberry
-bilberry
 avocado
 watermelon
 boysenberry
@@ -37,11 +32,10 @@ date
 coconut
 star fruit
 huckleberry
-williams pear
+pear
 cantaloupe
 lychee
 guava
-physalis
 banana
 cherry
 raspberry
@@ -51,7 +45,6 @@ grape
 mulberry
 breadfruit
 rock melon
-salal berry
 tangerine
 mango
 honeydew
